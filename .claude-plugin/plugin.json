@@ -1,0 +1,1 @@
+{ "name": "chat-cost", "version": "0.1.0", "description": "Mostra na status line o custo em US$ e os tokens de entrada/saída acumulados do chat." }

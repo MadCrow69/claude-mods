@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "MadCrow69" },
+  "plugins": [{ "name": "chat-cost", "source": "./" }]
+}
